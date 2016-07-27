@@ -1,18 +1,14 @@
 # my-vue-app
 
-> A Vue.js project
+Projeto criado para aprendizado de Vue.js, 
+livro Vue.js na Prática de Daniel Schmitz e Daniel Pedrinha Georgii.
 
-## Build Setup
+Está sendo usado:
 
-``` bash
-# install dependencies
-npm install
+* vue-cli
+* vue-router
+* vue-resource
+* ....
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
